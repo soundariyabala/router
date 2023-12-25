@@ -79,7 +79,7 @@ function App() {
                  {image:"https://navigossearch.com/Data/Sites/1/media/b%C3%A0i-seo/seo-t5/14/2.jpg",
                  title:"Career",
                  paragraph:"Impacts on industry development, human resource needs and potentials/challenges… will have a great impact on each person's career path. If you are not prepared both mentally and professionally, you will certainly not be able to cope with the changes that may occur. The best way is to outline a clear roadmap, long-term plan for your career development. Based on that, you will know what to do first, what to do later to gradually reach success."},
-                 {image:"https://cdn0.careeraddict.com/uploads/article/59982/illustration-people-arrows.jpg",
+                 {image:"https://thumbs.dreamstime.com/z/career-development-chart-hand-drawing-blackboard-56251425.jpg?w=992",
                  title:"Career",
                  paragraph:"To help you explore your options, we’ve put together this ultimate list of career paths for inspiration. will have a great impact on each person's career path. If you are not prepared both mentally and professionally. If you will certainly not be able to cope with the changes you will certainly not be able to cope with the changes You can click through to each profession’s dedicated career profile to learn more about typical duties and responsibilities, salary potential, job outlook, entry requirements, and more, so you can make a more informed."},
                  {image:"https://www.cfnc.org/media/lnrf5gv0/career-sign-post.jpg",
