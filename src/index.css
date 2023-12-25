@@ -1,0 +1,25 @@
+
+body{
+  background-color:lightpink
+}
+#navbarNav ul li:hover{
+text-decoration:underline;
+background: springgreen;
+border-radius: 20px;
+}
+#navbarNav ul li{
+  font-weight:500;
+}
+#navbarNav{
+  margin-left: 480px;
+}
+#Nav{ 
+  background-color:aliceblue;
+}
+#Card{
+  margin:30px;
+  padding:30px;
+  border:5px solid black;
+}
+
+
